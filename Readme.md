@@ -19,7 +19,7 @@ Expose your localhost with this simple software
 ## Usage
 
 + Move into the cloned directory `cd Nhosting`
-+ Start the program using `./main.sh` or `bash main.sh` or `sh main.sh`
++ Start the program using `sh main.sh`
 + Enjoy!
 
 ## Credits
